@@ -2,7 +2,8 @@
 
 ## Additional materials
 
+Berkeley CS61C Course: [Link](cs61c.org)
 
 ## Acknowledgement
 
-Giảng viên: TS. Nguyễn Thị Kim Thoa
+Giảng viên: TS. Nguyễn Đức Minh

@@ -1,5 +1,7 @@
 # Môn học: Cấu trúc dữ liệu và giải thuật
 
+## How to use
+
 ## Additional materials
 
 Books:
@@ -10,3 +12,5 @@ Books:
 ## Acknowledgement
 
 Giảng viên: TS. Nguyễn Thị Kim Thoa
+Giảng viên: Nguyễn Thanh Bình
+Giảng viên: TS. Phạm Doãn Tĩnh

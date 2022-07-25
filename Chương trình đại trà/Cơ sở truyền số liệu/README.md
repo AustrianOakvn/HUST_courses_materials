@@ -12,7 +12,10 @@ Chương 2:
 - Quá trình sinh tử: 12
 - Các mô hình hàng đợi đơn: 12, 13, 14, 15, 16, 17
 - Mạng hàng đợi: 17, ..., 26
+
+
 Chương 3:
+
 - Vai trò của định tuyến: 26
 - Định tuyến đơn giản: 26
 - Lý thuyết đồ thị: 27, .., 30

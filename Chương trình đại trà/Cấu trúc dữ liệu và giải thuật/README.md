@@ -11,6 +11,6 @@ Books:
 
 ## Acknowledgement
 
-Giảng viên: TS. Nguyễn Thị Kim Thoa
-Giảng viên: Nguyễn Thanh Bình
+Giảng viên: TS. Nguyễn Thị Kim Thoa\
+Giảng viên: Nguyễn Thanh Bình\
 Giảng viên: TS. Phạm Doãn Tĩnh

@@ -20,7 +20,7 @@ Chương 3:
 - Giải thuật Shortest Path Tree: 34,..., 41
 - Giải thuật tìm đường đi ngắn nhất: 45, 46, 47
   
-Ôn giữa kì: 42, ..., 44\
+
 Chương 4:
 
 - Điều khiển: 47, 48
@@ -29,6 +29,7 @@ Chương 4:
 - Điều khiển luồng và tránh tắc nghẽn theo phương pháp cửa sổ: 60, ..., 63
 - Điều khiển luồng và chống tắc nghẽn dựa trên băng thông: 64
 
+Ôn giữa kì: 42, ..., 44\
 Ôn tập cuối kì: 64, 65 \
 Giải đề 30/11/2014: 66, 67, 68 \
 Giải đề 9/1/2018: 69, 70, 71 \

@@ -1,8 +1,14 @@
 # HUST courses materials
 
+This repo aims to summarize and collect all of my handwritten notes and related materials that I have accumulated throughout my Electronics and Telecommunications Engineering program in Hanoi University of Science and Technology
+
 Repo này nhằm tổng hợp các bản tài liệu viết tay của mình và các tài liệu liên quan tới các môn trong chương trình học kỹ sư Điện tử - Viễn Thông của Đại học Bách Khoa Hà Nội
 
 ## How to use
+
+Because this repo contains many documents so it is very large, I don't recommend you to clone everything from this repo. Please go to [Downgit](https://downgit.github.io/#/home). Then, access the folder of the course in this repo which you want to download, copy the url and paste it to Downgit, press Create Download Link and Download to download the compressed folder to your local machine.
+
+Do chứa nhiều tài liệu nên repo có kích thước lớn, mình khuyên các bạn không nên dùng git clone mà hãy vào [Downgit](https://downgit.github.io/#/home). Sau đó truy cập vào thư mục chứa môn học mà bạn muốn download và copy url vào Downgit, nhấn Create Download Link và Download để tải thư mục đã được nén.
 
 ## Folder structure
 

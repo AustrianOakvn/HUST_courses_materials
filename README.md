@@ -38,3 +38,5 @@ Do chứa nhiều tài liệu nên repo có kích thước lớn, mình khuyên 
 This project is licensed under the MIT License. See LICENSE for more details
 
 ## Acknowledgement
+
+Hanoi University of Science and Technology

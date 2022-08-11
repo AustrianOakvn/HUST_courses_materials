@@ -33,6 +33,8 @@ Do chứa nhiều tài liệu nên repo có kích thước lớn, mình khuyên 
 
  ```
 
+## How to contribute
+
 ## License
 
 This project is licensed under the MIT License. See LICENSE for more details
